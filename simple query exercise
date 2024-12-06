@@ -1,1 +1,3 @@
-select * from
+select first_name, last_name
+  first_name || '.' || last_name ||'tutorial.com'
+from employees;
