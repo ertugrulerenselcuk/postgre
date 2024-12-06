@@ -1,42 +1,42 @@
-| First Name   | Last Name   | Email                         |
-|:-------------|:------------|:------------------------------|
-| Steven       | King        | Steven.Kingtutorial.com       |
-| Neena        | Kochhar     | Neena.Kochhartutorial.com     |
-| Lex          | De Haan     | Lex.De Haantutorial.com       |
-| Alexander    | Hunold      | Alexander.Hunoldtutorial.com  |
-| Bruce        | Ernst       | Bruce.Ernsttutorial.com       |
-| David        | Austin      | David.Austintutorial.com      |
-| Valli        | Pataballa   | Valli.Pataballatutorial.com   |
-| Diana        | Lorentz     | Diana.Lorentztutorial.com     |
-| Daniel       | Faviet      | Daniel.Faviettutorial.com     |
-| Ismael       | Sciarra     | Ismael.Sciarratutorial.com    |
-| Jose Manuel  | Urman       | Jose Manuel.Urmantutorial.com |
-| Luis         | Popp        | Luis.Popptutorial.com         |
-| Alexander    | Khoo        | Alexander.Khootutorial.com    |
-| Shelli       | Baida       | Shelli.Baidatutorial.com      |
-| Sigal        | Tobias      | Sigal.Tobiastutorial.com      |
-| Guy          | Himuro      | Guy.Himurotutorial.com        |
-| Karen        | Colmenares  | Karen.Colmenarestutorial.com  |
-| Irene        | Mikkilineni | Irene.Mikkilinenitutorial.com |
-| Jonathon     | Taylor      | Jonathon.Taylortutorial.com   |
-| Jack         | Livingston  | Jack.Livingstontutorial.com   |
-| Kimberely    | Grant       | Kimberely.Granttutorial.com   |
-| Nancy        | Greenberg   | Nancy.Greenbergtutorial.com   |
-| Den          | Raphaely    | Den.Raphaelytutorial.com      |
-| Matthew      | Weiss       | Matthew.Weisstutorial.com     |
-| Adam         | Fripp       | Adam.Fripptutorial.com        |
-| Payam        | Kaufling    | Payam.Kauflingtutorial.com    |
-| Shanta       | Vollman     | Shanta.Vollmantutorial.com    |
-| John         | Russell     | John.Russelltutorial.com      |
-| Karen        | Partners    | Karen.Partnerstutorial.com    |
-| John         | Chen        | John.Chentutorial.com         |
-| Charles      | Johnson     | Charles.Johnsontutorial.com   |
-| Sarah        | Bell        | Sarah.Belltutorial.com        |
-| Britney      | Everett     | Britney.Everetttutorial.com   |
-| Pat          | Fay         | Pat.Faytutorial.com           |
-| Susan        | Mavris      | Susan.Mavristutorial.com      |
-| William      | Gietz       | William.Gietztutorial.com     |
-| Jennifer     | Whalen      | Jennifer.Whalentutorial.com   |
-| Hermann      | Baer        | Hermann.Baertutorial.com      |
-| Michael      | Hartstein   | Michael.Hartsteintutorial.com |
-| Shelley      | Higgins     | Shelley.Higginstutorial.com   |
+| First Name   | Last Name   | Email                         |   Value |
+|:-------------|:------------|:------------------------------|--------:|
+| Steven       | King        | Steven.Kingtutorial.com       | 32400   |
+| Neena        | Kochhar     | Neena.Kochhartutorial.com     | 22950   |
+| Lex          | De Haan     | Lex.De Haantutorial.com       | 22950   |
+| Alexander    | Hunold      | Alexander.Hunoldtutorial.com  | 12150   |
+| Bruce        | Ernst       | Bruce.Ernsttutorial.com       |  8100   |
+| David        | Austin      | David.Austintutorial.com      |  6480   |
+| Valli        | Pataballa   | Valli.Pataballatutorial.com   |  6480   |
+| Diana        | Lorentz     | Diana.Lorentztutorial.com     |  5670   |
+| Daniel       | Faviet      | Daniel.Faviettutorial.com     | 12150   |
+| Ismael       | Sciarra     | Ismael.Sciarratutorial.com    | 10395   |
+| Jose Manuel  | Urman       | Jose Manuel.Urmantutorial.com | 10530   |
+| Luis         | Popp        | Luis.Popptutorial.com         |  9315   |
+| Alexander    | Khoo        | Alexander.Khootutorial.com    |  4185   |
+| Shelli       | Baida       | Shelli.Baidatutorial.com      |  3915   |
+| Sigal        | Tobias      | Sigal.Tobiastutorial.com      |  3780   |
+| Guy          | Himuro      | Guy.Himurotutorial.com        |  3510   |
+| Karen        | Colmenares  | Karen.Colmenarestutorial.com  |  3375   |
+| Irene        | Mikkilineni | Irene.Mikkilinenitutorial.com |  3645   |
+| Jonathon     | Taylor      | Jonathon.Taylortutorial.com   | 11610   |
+| Jack         | Livingston  | Jack.Livingstontutorial.com   | 11340   |
+| Kimberely    | Grant       | Kimberely.Granttutorial.com   |  9450   |
+| Nancy        | Greenberg   | Nancy.Greenbergtutorial.com   | 23328   |
+| Den          | Raphaely    | Den.Raphaelytutorial.com      | 21384   |
+| Matthew      | Weiss       | Matthew.Weisstutorial.com     | 15552   |
+| Adam         | Fripp       | Adam.Fripptutorial.com        | 15940.8 |
+| Payam        | Kaufling    | Payam.Kauflingtutorial.com    | 15357.6 |
+| Shanta       | Vollman     | Shanta.Vollmantutorial.com    | 12636   |
+| John         | Russell     | John.Russelltutorial.com      | 27216   |
+| Karen        | Partners    | Karen.Partnerstutorial.com    | 26244   |
+| John         | Chen        | John.Chentutorial.com         | 15940.8 |
+| Charles      | Johnson     | Charles.Johnsontutorial.com   |  8370   |
+| Sarah        | Bell        | Sarah.Belltutorial.com        |  5400   |
+| Britney      | Everett     | Britney.Everetttutorial.com   |  5265   |
+| Pat          | Fay         | Pat.Faytutorial.com           |  8100   |
+| Susan        | Mavris      | Susan.Mavristutorial.com      |  8775   |
+| William      | Gietz       | William.Gietztutorial.com     | 11205   |
+| Jennifer     | Whalen      | Jennifer.Whalentutorial.com   |  7290   |
+| Hermann      | Baer        | Hermann.Baertutorial.com      | 14850   |
+| Michael      | Hartstein   | Michael.Hartsteintutorial.com | 25272   |
+| Shelley      | Higgins     | Shelley.Higginstutorial.com   | 23328   |
